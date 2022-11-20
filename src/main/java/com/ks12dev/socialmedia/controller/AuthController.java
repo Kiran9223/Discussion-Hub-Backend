@@ -1,5 +1,7 @@
 package com.ks12dev.socialmedia.controller;
 
+import com.ks12dev.socialmedia.dto.AuthenticationResponse;
+import com.ks12dev.socialmedia.dto.LoginRequest;
 import com.ks12dev.socialmedia.dto.RegisterRequest;
 import com.ks12dev.socialmedia.service.AuthService;
 import lombok.AllArgsConstructor;
@@ -24,5 +26,10 @@ public class AuthController {
     public ResponseEntity<String> verifyAccount(@PathVariable String token){
         authService.verifyAccount(token);
         return new ResponseEntity<>("Account Activated Successfully", HttpStatus.OK);
+    }
+
+    @PostMapping("/login")
+    public AuthenticationResponse login(@RequestBody LoginRequest loginRequest){
+        return authService.login(loginRequest);
     }
 }
