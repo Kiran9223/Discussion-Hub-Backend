@@ -12,7 +12,7 @@
 	<artifactId>social-media</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>social-media</name>
-	<description>Social discussion wesite</description>
+	<description>Social discussion website</description>
 	<properties>
 		<java.version>17</java.version>
 		<org.mapstruct.version>1.5.3.Final</org.mapstruct.version>
