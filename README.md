@@ -11,10 +11,10 @@
 # UI
 
 # SignUp Page :
-![SignUpPage](https://user-images.githubusercontent.com/88050617/226183222-770e0d41-f0f7-4069-8de0-bb898eb67b20.jpg)
+![SignUpPage](https://user-images.githubusercontent.com/88050617/226183478-f7fba8e3-5e8f-46d4-a57b-d558c20a5210.jpg)
 
 # Login Page :
-![LoginPage](https://user-images.githubusercontent.com/88050617/226183239-7a495c22-ec11-44aa-94df-b0be5e980d81.png)
+![LoginPage](https://user-images.githubusercontent.com/88050617/226183489-7f192bd3-67e1-4c2d-9a36-2b78844f8ec0.jpg)
 
 # Activation Email :
 ![AccActivation](https://user-images.githubusercontent.com/88050617/226183252-babbeea6-a639-48a1-978f-0da12eb6d7c6.jpg)
