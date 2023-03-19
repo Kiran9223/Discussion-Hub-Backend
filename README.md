@@ -20,11 +20,11 @@
 ![AccActivation](https://user-images.githubusercontent.com/88050617/226183252-babbeea6-a639-48a1-978f-0da12eb6d7c6.jpg)
 
 # Home Page :
-![HomePage](https://user-images.githubusercontent.com/88050617/226183272-d99496ef-f5ea-44e2-9477-bb078318f4ef.jpg)
+![Home](https://user-images.githubusercontent.com/88050617/226184135-f5e7dfca-83ce-435f-b02e-8af7c9a43f85.jpg)
 
 # Create Post :
 ![CreatePost](https://user-images.githubusercontent.com/88050617/226183298-fe63e52d-8b92-4c58-8f0e-b6b2e13b17c6.jpg)
 
 # Add Comments :
-![AddComments](https://user-images.githubusercontent.com/88050617/226183306-25887b95-58e4-42f0-bd41-f0772dce5a5e.jpg)
+![Comments](https://user-images.githubusercontent.com/88050617/226184147-0fe535ca-936a-4af6-9807-028a2ae2c172.jpg)
 
